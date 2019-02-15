@@ -1,3 +1,6 @@
+### This code is associated with the paper from Himmelstein et al., "Research: Sci-Hub provides access to nearly all scholarly literature". eLife, 2018. http://dx.doi.org/10.7554/eLife.32822
+
+
 # Analyses for the Sci-Hub Coverage Study
 
 This project investigates the coverage of scholarly literature in the Sci-Hub and LibGen scimag repositories.
